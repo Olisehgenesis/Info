@@ -99,7 +99,7 @@
 
 ### 📫 Contact
 
-- Email: oliseh.mwijusya@example.com
+- Email:mwijusyaoliseh1@gmail.com
 - LinkedIn: [linkedin.com/in/olisehmwijusya](https://linkedin.com/in/olisehmwijusya)
 - GitHub: [github.com/olisehmwijusya](https://github.com/olisehmwijusya)
 
